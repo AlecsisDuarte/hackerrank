@@ -40,7 +40,9 @@
  *     Output:
  *         2
  * 
- * Reference: https://www.hackerrank.com/challenges/fraudulent-activity-notifications/forum/comments/348845
+ * Reference(s): 
+ *  https://www.hackerrank.com/challenges/fraudulent-activity-notifications/forum/comments/348845
+ *  https://www.geeksforgeeks.org/counting-sort/
  */
 import java.util.Scanner;
 import java.util.Arrays;
